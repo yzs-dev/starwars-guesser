@@ -127,7 +127,7 @@ export default function SwEndgame() {
     return (
         <main>
             <header>
-                <h1>StarWars : Endgame</h1>
+                <h1>StarWars : Guesser</h1>
                 <p>
                     Guess the word within 8 attempts to keep the programming
                     world safe from Assembly!
